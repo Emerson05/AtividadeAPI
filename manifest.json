@@ -1,0 +1,29 @@
+{
+    "name": "Procurar Musica",
+    "short_name": "Musica",
+    "icons": [
+      {
+        "src": "image/music.png",
+        "sizes": "128x128",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+    
+      {
+        "src": "image/music.png",
+        "sizes": "256x256",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "image/music.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#31506F",
+    "theme_color": "#4D5360"
+  }
